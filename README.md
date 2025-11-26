@@ -77,5 +77,4 @@ Pix2Pix gave the most stable outputs, while CCGAN offered flexibility in unpaire
 
 ---
 
-## 📂 Repository Structure (Suggested)
 
